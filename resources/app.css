@@ -1,0 +1,83 @@
+h4 {
+    weight: light;
+    color: hsl(150, 100%, 66%);
+    font-size: 19px;
+    letter-spacing: 5px;
+    font-family: 'Manrope', sans-serif
+
+}
+
+#advice {
+    font-size: 24px;
+    font-weight: bold;
+    
+  }
+  
+
+
+body {
+
+    font-size: 28px;
+    background-color: hsl(218, 23%, 16%);
+    
+}
+
+.container {
+    position: absolute;
+    border: 2px solid hsl(217, 19%, 38%);
+    border-color: hsl(217, 19%, 38%);
+    border-radius:25px;
+    background-color: hsl(217, 19%, 38%);
+    width: 50%;
+    margin: 0 auto;
+    padding: 30px;
+    text-align: center;
+    color: white;
+    top: 25%;
+    left: 25%;
+    
+
+
+}
+.advice-div {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+
+}
+
+#divider {
+    position: absolute;
+    width: 100%;
+    top: 75%;
+    left: 49%;
+}
+
+#dice-button svg {
+    color: black;
+    width: 35px;
+    height: 100px;
+    
+}
+#button-position {
+    position: static;
+    padding-right: 700px
+    padding-left: 90%;
+
+
+}
+
+.button-advice {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: hsl(150, 100%, 66%);
+    border-radius: 50%;
+    left: 43%;
+    top: 86%
+    
+
+    
+
+}
